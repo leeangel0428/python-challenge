@@ -9,3 +9,8 @@ This specific challange had two parts, PyBank and PuPoll. The first part of the 
 # Additional information
 
 In this repository, you will find the reference screenshots, images from the given challenge, a PyBank folder (consisting of the budget data set, my PyBank script, and my PyBank analysis text file), and a PyPoll folder (consisting of the election dataset, my PyPoll script, and my PyPoll analysis text). I did not use any outside sources for this challenge other than my amazing tutor (shout out to him) Geronimo Perez. He taught me how to set variables that hold two different values in the list (which helped with getting the greatest increase and decrease in PyBank), how to use a template using f'''<content>''' which helped print the values in a neat fashion, and how to format the values using commas and ".2f" or ".3f". Otherwise, everything else was retained information gathered from my classes and class activities. As always, a big shout out to my bootcamp TAs Sam and Randy for all their help answering my questions during office hours, my instructor Hunter for always being clear in his articulation of the course material, and my classmates for their encouragement and support.
+
+### Grade:
+![Screenshot 2023-10-15 215505](https://github.com/leeangel0428/Excel_analysis/assets/137225965/3e01f4d0-6175-4098-add0-45aeb4bf845a)
+
+![Screenshot 2023-10-15 215528](https://github.com/leeangel0428/Excel_analysis/assets/137225965/5c564e9c-09f9-4ad0-9c75-9b72bf4e347d)
